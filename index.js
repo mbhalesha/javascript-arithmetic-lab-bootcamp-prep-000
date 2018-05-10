@@ -19,3 +19,7 @@ function divide (a, b){
   return result;
 }
 
+function inc(n){
+  result = n + 1;
+  return result;
+}
