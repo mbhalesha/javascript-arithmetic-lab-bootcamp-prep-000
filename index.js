@@ -28,3 +28,8 @@ function dec(n){
   result = n - 1;
   return result;
 }
+
+function makeInt(n){
+  result = parseInt(n, 10);
+  return result;
+}
