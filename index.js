@@ -4,7 +4,8 @@ function add (a, b){
   return result;
 }
 
-var result subtract (a, b){
+var result;
+function subtract (a, b){
   result b - a; 
   return result;
 }
