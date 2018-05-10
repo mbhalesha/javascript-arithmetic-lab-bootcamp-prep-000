@@ -23,3 +23,8 @@ function inc(n){
   result = n + 1;
   return result;
 }
+
+function dec(n){
+  result = n - 1;
+  return result;
+}
