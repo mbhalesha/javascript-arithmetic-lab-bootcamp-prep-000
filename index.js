@@ -5,6 +5,6 @@ function add (a, b){
 }
 
 function subtract (a, b){
-  result a - b; 
+  result b - a; 
   return result;
 }
